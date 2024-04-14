@@ -7,7 +7,7 @@ colorama==0.3.7
 docutils==0.14
 futures==3.1.1
 iampoliciesgonewild==1.0.6.2
-idna==2.6
+idna==3.7
 IPy==0.83
 jmespath==0.9.3
 netaddr==0.7.19
