@@ -12,7 +12,7 @@ IPy==0.83
 jmespath==0.9.3
 netaddr==0.7.19
 opinel==3.1.2
-pyasn1==0.3.2
+pyasn1==0.6.2
 python-dateutil==2.6.1
 PyYAML==3.12
 requests==2.18.4
